@@ -1,0 +1,9 @@
+pypdf==4.0.2
+langchain==0.1.9
+ollama==0.1.6
+jupyterlab==4.1.2
+chromadb==0.4.23
+openai==1.12.0
+tiktoken==0.6.0
+PyPDF2==3.0.1
+PyMuPDF==1.23.24
