@@ -36,3 +36,9 @@ http://0.0.0.0:
 ```
 open pdf-qa.ipynb
 ```
+
+To run Streamlit app:
+
+```
+Streamlit run streamlit-app.py
+```
